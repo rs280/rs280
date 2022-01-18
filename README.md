@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 
 rishabhsahoo1@gmail.com
-<img  align = "center" src="https://dcbadge.vercel.app/api/shield/bot/740956672494665759" />
+<img  align = "center" src="https://dcbadge.vercel.app/api/shield/shield/740956672494665759" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs280" />
 
 
