@@ -6,4 +6,4 @@
 rishabhsahoo1@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rs280)](https://github.com/rs280/github-readme-stats)
-[![ Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs280a&count_private=true)]
+[![ Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs280&count_private=true)]
