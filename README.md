@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 rishabhsahoo1@gmail.com
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs280" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs280&show_icons=true&theme=dark" />
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rs280&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rs280&count_private=true&show_icons=true&theme=dark" />
