@@ -9,3 +9,5 @@ rishabhsahoo1@gmail.com
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rs280&count_private=true&show_icons=true&theme=dark" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rs280&theme=dark)](https://git.io/streak-stats)
