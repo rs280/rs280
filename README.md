@@ -3,11 +3,8 @@
 - 🌱 I’m currently learning Flutter with Firebase
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me 
-rishabhsahoo1@gmail.com
+rishabhsahoo1@gmail.com or https://www.linkedin.com/in/rishabhsahoo/
 
-or 
-
-https://www.linkedin.com/in/rishabhsahoo/
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs280&show_icons=true&theme=dark" />
 
 
