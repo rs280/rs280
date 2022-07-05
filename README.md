@@ -13,3 +13,4 @@ rishabhsahoo1@gmail.com or https://www.linkedin.com/in/rishabhsahoo/
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rs280&theme=dark)](https://git.io/streak-stats)
   
   ![](https://komarev.com/ghpvc/?username=rs280&style=flat)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
