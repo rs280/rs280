@@ -14,4 +14,4 @@ rishabhsahoo1@gmail.com or https://www.linkedin.com/in/rishabhsahoo/
   
   ![](https://komarev.com/ghpvc/?username=rs280&style=flat)
   [![](https://activity-graph.herokuapp.com/graph?username=rs280&theme=react-dark)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
